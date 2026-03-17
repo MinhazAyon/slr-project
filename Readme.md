@@ -71,7 +71,8 @@ The system is evaluated using:
 ## Demo
 
 A demo video illustrating real-time sign language recognition is provided:
-▶️ [Full demo video](slr_01.mp4)  
+
+▶️ [Full demo video]((https://github.com/MinhazAyon/slr-project/blob/main/slr_01.gif))  
 
 ---
 
